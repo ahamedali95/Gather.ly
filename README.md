@@ -7,11 +7,15 @@ Following is the Entity Relationship Diagram that describes the entities/models 
 
 ![imageedit_14_9756746858](https://user-images.githubusercontent.com/24445922/39903751-c53a6c94-54a2-11e8-9194-37f5a0e467b9.png)
 
-##### Notable tools:
+### Notable tools:
 * Paperclip - a Ruby gem provided by thoughtbot which allows easy file attachment management.
 * Bootstrap - a front-end framework which allows to build more responsive, user-friendly web applications.
 * Bcrypt - a Ruby gem provided by The OpenBSD project which allows to safely handle passwords by hashing the passwords.
 * RSpec - a Ruby behavior-driven development framework which allows to create unit tests.
 
-##### DEMO
+### DEMO
 [![watch this video](https://img.youtube.com/vi/1hjnR8uRFDg/0.jpg)](https://www.youtube.com/watch?v=1hjnR8uRFDg&feature=youtu.be)
+
+### Instructions
+
+To start, run ```rails s``` This will start the app at PORT 3000. To designate a different port number for the app, run ```rails s -p {PORT NO.}```
