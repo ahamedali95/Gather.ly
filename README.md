@@ -20,8 +20,8 @@ Following is the Entity Relationship Diagram that describes the entities/models 
 
 To start, run ```rails s``` This will start the app at PORT 3000. To designate a different port number for the app, run ```rails s -p {PORT NO.}```
 
-### Creators 
-1. <a src ="www.google.com">google</a>
-2. @ahkian
-3. @briecodes
-4. @jrgreiner115
+### Contributors
+1. <a href="https://github.com/ahamedali95/">@ahamedali95</a>
+2. <a href="https://github.com/ahkian">@ahkian</a>
+3. <a href="https://github.com/briecodes">@briecodes</a>
+4. <a href="https://github.com/jrgreiner115">@jrgreiner115</a>
