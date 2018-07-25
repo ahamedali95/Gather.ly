@@ -14,7 +14,7 @@ Following is the Entity Relationship Diagram that describes the entities/models 
 * RSpec - a Ruby behavior-driven development framework which allows to create unit tests.
 
 ### Demo
-[![watch this video](https://img.youtube.com/vi/1hjnR8uRFDg/0.jpg)](https://www.youtube.com/watch?v=1hjnR8uRFDg&feature=youtu.be)
+[![watch this video](https://img.youtube.com/vi/4D7SWuyDCos/0.jpg)](https://youtu.be/4D7SWuyDCos)
 
 ### Instructions
 
